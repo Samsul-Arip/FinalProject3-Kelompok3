@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalProject3-Kelompok3</string>
+    <string name="ac">Ac</string>
+    <string name="bintang">*</string>
+    <string name="slash">/</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_700">=700</string>
+    <string name="_100_2_88_5">100/2*88+5</string>
+    <string name="minus">-</string>
+</resources>
